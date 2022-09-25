@@ -13,13 +13,13 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94753420144'
+global.REACT_NUMBER = '923165860765'
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -34,19 +34,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94753420144'] //ur owner number
-global.ownername = "SenuBoy" //ur owner name
-global.ytname = "YT: SenuBoy" //ur yt chanel name
+global.vcardowner = ['923165860768'] //ur owner number
+global.ownername = "ÃLØNE ẞUT HAPPY" //ur owner name
+global.ytname = "YT: ÃLØNE ẞUT HAPPY" //ur yt chanel name
 global.socialm = "GitHub: SenuBoy" //ur github or insta name
 global.location = "SriLanka, Kaluthara, Panadura" //ur location
 
 //bot bomdy 
-global.owner = ['94753420144']
-global.ownertag = '94753420144' //ur tag number
-global.botname = 'Queen-Melissa-Beta' //ur bot name
-global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
-global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
+global.owner = ['923165860765']
+global.ownertag = '923165860765' //ur tag number
+global.botname = 'ÃLØNE ẞUT HAPPY Beta' //ur bot name
+global.linkz = "https://github.comssa-Beta" //your theme url which will be displayed on whatsapp
+global.websitex = "https://github.com/Seen-Melissa-Beta" //ur website to be displayed
+global.botscript = 'https://github.com/Senulissa-Beta' //script link
 global.reactmoji = "📄" //ur menu react emoji
 global.themeemoji = "🪀" //ur theme emoji
 global.packname = "Queen-Melissa-Beta" //ur sticker watermark packname
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94753420144'] //ur premium numbers
+global.premium = ['923165860765'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
